@@ -28,3 +28,7 @@ npm install netlify-cms-app@2.12.15 gatsby-plugin-netlify-cms@4.3.5
     "media_folder": "static/img",
     "public_folder": "/img"
 }
+
+git add .
+git commit -m "Add initial configuration"
+git push origin master
