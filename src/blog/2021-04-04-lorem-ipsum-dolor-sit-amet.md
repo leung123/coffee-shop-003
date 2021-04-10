@@ -1,8 +1,10 @@
 ---
 title: Lorem ipsum dolor sit amet
 date: 2021-04-04T06:00:35.316Z
+contentKey: blog
 ---
-![Rina Aizawa](/img/rina02-6-.jpg "a delicious cup of coffee")
+
+![Rina Aizawa](/img/rina02-6-.jpg 'a delicious cup of coffee')
 
 <!--StartFragment-->
 
